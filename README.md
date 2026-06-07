@@ -30,6 +30,7 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 ```
 **resource-monitor**
 > Edit app/core/Config.php to set an Admin key (allows creating an admin account)
+> The refresh frequency of each card can be set by changing setInterval(update, 10000); in public/templates/partials/monitors
 
 ```bash
 git clone https://github.com/maxmilian-sk2/resource-monitor
