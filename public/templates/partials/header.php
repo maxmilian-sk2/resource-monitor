@@ -22,7 +22,7 @@
     <div class="lg:flex min-w-screen min-h-screen max-w-[1920px] justify-center">
 
         <!-- Header (all screens) -->
-         <header class="z-40 w-full max-w-[1920px] lg:fixed lg:h-16 lg:pl-4 lg:pr-4 lg:pt-2 lg:pb-2">
+         <header class="z-40 w-full max-w-[1920px] lg:fixed lg:h-16 lg:pl-4 lg:pr-4 lg:pt-2 lg:pb-2 mb-4 lg:mb-0">
             <div class="flex flex-col lg:flex-row w-full bg-slate-950 lg:bg-sky-50/5 lg:backdrop-blur-xs lg:h-full lg:rounded-xl border-b-1 lg:border border-neutral-700 shadow-lg pr-1">
                 <div class="hidden lg:flex items-center justify-center lg:justify-start lg:pl-3 lg:basis-64">
                     <h1 class="text-stone-50"><ion-icon name="speedometer-outline" class="mr-1"></ion-icon>Resource Monitor</h1>
