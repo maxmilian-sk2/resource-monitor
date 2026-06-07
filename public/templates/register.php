@@ -37,7 +37,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <title><?php echo htmlspecialchars(Helper::getPageTitle()); ?></title>
 </head>
 
-<body class="min-h-screen bg-slate-950 bg-[radial-gradient(circle_at_10%_80%,#1e1b4b,transparent_15%),radial-gradient(circle_at_100%_15%,#4a044e,transparent_20%)] flex items-center justify-center">
+<body class="min-h-screen bg-slate-950 bg-[radial-gradient(125%_125%_at_50%_100%,_#000000_40%,_#350136_100%)] bg-[size:100%_100%] flex items-center justify-center">
 
     <div class="md:w-full max-w-sm bg-sky-50/5 backdrop-blur-xs rounded-xl border border-neutral-700 shadow-lg p-8">
         <h1 class="text-stone-50 text-2xl font-bold mb-1 flex items-center gap-2">
