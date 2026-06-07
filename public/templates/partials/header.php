@@ -16,7 +16,7 @@
 </head>
 
 <!-- Document body -->
-<body class="max-w-screen justify-center min-w-screen min-h-screen bg-slate-950 bg-[radial-gradient(circle_at_10%_80%,#1e1b4b,transparent_15%),radial-gradient(circle_at_100%_15%,#4a044e,transparent_20%)]">
+<body class="max-w-screen justify-center min-w-screen min-h-screen bg-slate-950 bg-[radial-gradient(125%_125%_at_50%_100%,_#000000_40%,_#350136_100%)] bg-[size:100%_100%]">
 
     <!-- Content wrapper, limits content to 1920px wide, centered -->
     <div class="lg:flex min-w-screen min-h-screen max-w-[1920px] justify-center">
